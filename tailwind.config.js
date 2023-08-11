@@ -7,10 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily:{
-        'inter': ['Inter', 'sans-serif'],
-        'satoshi': ['Satoshi', 'sans-serif'],
-      },
+      // fontFamily:{
+      //   'proxima-nova': ['Inter', 'sans-serif'],
+      //   'freight-text-pro': ['Satoshi', 'sans-serif'],
+      //   'freight-display-pro': ['Satoshi', 'sans-serif'],
+      // },
       colors: {
         'miami-red-primary': '#C41230',
         'miami-red-secondary': '#AD102A',
